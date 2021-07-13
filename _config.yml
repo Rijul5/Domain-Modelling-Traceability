@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+title: [Automated Traceability of Domain Modelling Decisions]
+description: [This page provides the details of the experiment data and tool for RE'21 paper "Automated Traceability for Domain Modelling Decisions Empowered by Artificial Intelligence"]
+
+show_downloads: ["false"]
